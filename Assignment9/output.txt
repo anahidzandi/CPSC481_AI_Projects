@@ -1,0 +1,5 @@
+Predicted weights for the following heights:
+Height: 60 Predicted weight: 128.24666666666667
+Height: 63 Predicted weight: 128.24666666666667
+Height: 72 Predicted weight: 138.14666666666668
+Height: 65 Predicted weight: 128.24666666666667
